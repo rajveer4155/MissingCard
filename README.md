@@ -13,4 +13,4 @@ This program finds missing card(s) from a Deck of Cards. It is implemented in Ha
 ### 3. Instructions to run:
 1. Compile the code and export it as jar file.
 2. Run it using command: 
-  $ bin/hadoop jar <jarfileName> <inputFiles> <outputLocation>
+  $ bin/hadoop jar jarfileName inputFiles outputLocation
